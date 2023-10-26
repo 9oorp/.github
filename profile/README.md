@@ -349,7 +349,7 @@ API 명세서 예시
 </td>
 <td width="100" align="center">
 <a href="https://github.com/hstla">
-<img src="https://user-images.githubusercontent.com/97827316/215991535-aa0d5aeb-363c-41a7-a114-c1448d58d9f1.png"" width="60" height="60">
+<img src="https://user-images.githubusercontent.com/97827316/215991535-aa0d5aeb-363c-41a7-a114-c1448d58d9f1.png" width="60" height="60">
 </a>
 </td>
 </tr>
