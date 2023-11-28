@@ -297,18 +297,18 @@ Github-flow 브랜치 전략를 사용해서 협업하고 git Projects를 사용
 
 ### API 명세서
 
-gitbook을 사용해서 API 명세서를 작성했습니다.
+postman을 사용해서 API 명세서를 작성했습니다.
 
 
-[api 명세서](https://9oorp.gitbook.io/ver1/)
+[api 명세서](https://documenter.getpostman.com/view/16441181/2s9YXiYMLt#df2914ab-8a7a-4964-9665-8d8a3e80c552)
 
 API 명세서 예시
-<div align="center"><img src="https://github.com/hstla/goorm-project/assets/83001865/0e6ef6d2-577d-409e-978d-1e15f8882bf4" width="500"></div>
+<div align="center"><img src="https://github.com/9oorp/frontend/assets/61531483/52cdd0f3-ec63-4126-9b7e-e0430139be96" width="500"></div>
 
 
  ### ERD
 
-<div align="center"><img src="https://github.com/hstla/goorm-project/assets/83001865/8fdfc209-641a-4fb3-bd82-d3fcb067509a"></div>
+<div align="center"><img src="https://github.com/9oorp/frontend/assets/61531483/c55e4bf1-d9fe-4db4-942e-9a2fd7fdb4bc"></div>
 
 
 ## 기능 소개
