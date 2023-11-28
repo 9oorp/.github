@@ -10,7 +10,7 @@
 
 
 ## 시스템 아키텍처
-<div align="center"><img src="https://github.com/hstla/goorm-project/assets/83001865/9db43c34-017b-431e-9313-241d86e7c228"></div>
+<div align="center"><img src="https://github.com/9oorp/frontend/assets/61531483/8cafee3d-29b6-406e-a8ea-704364b054b5"></div>
 
 
 
@@ -292,7 +292,7 @@
 
 Github-flow 브랜치 전략를 사용해서 협업하고 git Projects를 사용해서 1주단위로 스프린트를 관리했습니다.
 
-<div align="center"><img src="https://github.com/hstla/goorm-project/assets/83001865/b230d24c-ad37-4e1c-90d9-0e9dc6791fa3"></div>
+<div align="center"><img src="https://github.com/9oorp/frontend/assets/61531483/fe557d61-241a-4497-924b-4a9379f99c74"></div>
 
 
 ### API 명세서
@@ -343,26 +343,55 @@ API 명세서 예시
 </a>
 </td>
 <td width="100" align="center">
+<a href="https://github.com/rnignon">
+<img src="https://avatars.githubusercontent.com/u/86004439?v=4" width="60" height="60">
+</a>
+</td>
+<td width="100" align="center">
 <a href="https://github.com/wlstnam">
 <img src="https://avatars.githubusercontent.com/u/127458907?v=4" width="60" height="60">
 </a>
 </td>
 <td width="100" align="center">
 <a href="https://github.com/hstla">
-<img src="https://user-images.githubusercontent.com/97827316/215991535-aa0d5aeb-363c-41a7-a114-c1448d58d9f1.png" width="60" height="60">
+<img src="https://user-images.githubusercontent.com/97827316/215991535-aa0d5aeb-363c-41a7-a114-c1448d58d9f1.png"" width="60" height="60">
 </a>
 </td>
+<td width="100" align="center">
+<a href="https://github.com/sbslc2000">
+<img src="https://avatars.githubusercontent.com/u/60257970?v=4" width="60" height="60">
+</a>
+</td>
+<td width="100" align="center">
+<a href="https://github.com/luz315">
+<img src="https://avatars.githubusercontent.com/u/125282732?v=4" width="60" height="60">
+</a>
+</td>
+ 
 </tr>
 <tr>
 <th>Name</th>
 <td width="100" align="center">최민우</td>
+<td width="100" align="center">김민형</td>
 <td width="100" align="center">남진수</td>
 <td width="100" align="center">황현성</td>
+<td width="100" align="center">서범석</td>
+<td width="100" align="center">임소라</td>
+
 </tr>
 <tr>
 <th>Position</th>
 <td width="150" align="center">
 Frontend<br>
+</td>
+<td width="150" align="center">
+Frontend<br>
+</td>
+<td width="150" align="center">
+Backend<br>
+</td>
+<td width="150" align="center">
+Backend<br>
 </td>
 <td width="150" align="center">
 Backend<br>
@@ -379,6 +408,11 @@ Backend<br>
 </a>
 </td>
 <td width="100" align="center">
+<a href="https://github.com/rnignon">
+<img src="http://img.shields.io/badge/rnignon-green?style=social&logo=github"/>
+</a>
+</td>
+<td width="100" align="center">
 <a href="https://github.com/wlstnam">
 <img src="http://img.shields.io/badge/wlstnam-green?style=social&logo=github"/>
 </a>
@@ -386,6 +420,16 @@ Backend<br>
 <td width="100" align="center">
 <a href="https://github.com/hstla">
 <img src="http://img.shields.io/badge/hstla-green?style=social&logo=github"/>
+</a>
+</td>
+<td width="100" align="center">
+<a href="https://github.com/sbslc2000">
+<img src="http://img.shields.io/badge/sbslc2000-green?style=social&logo=github"/>
+</a>
+</td>
+<td width="100" align="center">
+<a href="https://github.com/luz315">
+<img src="http://img.shields.io/badge/luz315-green?style=social&logo=github"/>
 </a>
 </td>
 </tr>
