@@ -6,10 +6,8 @@
 1. [프로젝트 소개](#프로젝트-소개)
 2. [시스템 아키텍처](#시스템-아키텍처)
 3. [기술 스택](#TECH-STACKS)
-4. [Submodule Directories & documents](#Submodule-Directories-&-documents)
-  - [협업 툴](#협업툴)
-  - [API 명세서](#API-명세서)
-  - [ERD](#ERD)
+4. [Submodule Directories](#Submodule-Directories)
+5. [문서화](#문서)
 5. [기능 소개](#기능-소개)
 6. [팀 소개](#팀-소개)
 
@@ -32,7 +30,7 @@
 |<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"><br><img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white"><br><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"><br><img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white"><br>|<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"><br><img src="https://img.shields.io/badge/Spring-37814A?style=for-the-badge&logo=Spring&logoColor=white"><br><img src="https://img.shields.io/badge/SpringBoot-85EA2D.svg?style=for-the-badge&logo=SpringBoot&logoColor=white">|<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><br><img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white"><br>|<img src="https://img.shields.io/badge/Amazon EC2 -FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"><br><img src="https://img.shields.io/badge/Github Actions-2088FF?style=for-the-badge&logo=Github Actions&logoColor=white"><br><img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white"><br> |
 
 
-## Submodule Directories & documents
+## Submodule Directories
 
 <details>
 <summary> FRONTEND </summary>
@@ -299,6 +297,7 @@
  ```
  </details>
 
+## 문서
 ### 협업툴
 
 Github-flow 브랜치 전략를 사용해서 협업하고 git Projects를 사용해서 1주단위로 스프린트를 관리했습니다.
