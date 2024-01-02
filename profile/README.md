@@ -1,8 +1,4 @@
-# 9oorp
-
-<div align="center"><img src="https://github.com/hstla/goorm-project/assets/83001865/6faa0a49-e25e-4670-be2c-0e901e009b9c"></div>
-
-
+# 9oorp 프로젝트 목차
 1. [프로젝트 소개](#프로젝트-소개)
 2. [시스템 아키텍처](#시스템-아키텍처)
 3. [기술 스택](#TECH-STACKS)
@@ -10,6 +6,12 @@
 5. [문서화](#문서)
 5. [기능 소개](#기능-소개)
 6. [팀 소개](#팀-소개)
+
+
+# 9oorp
+
+<div align="center"><img src="https://github.com/hstla/goorm-project/assets/83001865/6faa0a49-e25e-4670-be2c-0e901e009b9c"></div>
+
 
 
 ## 프로젝트 소개
