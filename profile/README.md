@@ -6,12 +6,12 @@
 1. [프로젝트 소개](#프로젝트-소개)
 2. [시스템 아키텍처](#시스템-아키텍처)
 3. [기술 스택](#TECH-STACKS)
-4. [](#Submodule-Directories-&-documents)
+4. [Submodule Directories & documents](#Submodule-Directories-&-documents)
   - [협업 툴](#협업툴)
   - [API 명세서](#API-명세서)
   - [ERD](#ERD)
 5. [기능 소개](#기능-소개)
-6. [게시판 구현하기](#팀-소개)
+6. [팀 소개](#팀-소개)
 
 
 ## 프로젝트 소개
