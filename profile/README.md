@@ -3,6 +3,17 @@
 <div align="center"><img src="https://github.com/hstla/goorm-project/assets/83001865/6faa0a49-e25e-4670-be2c-0e901e009b9c"></div>
 
 
+1. [프로젝트 소개](#프로젝트-소개)
+2. [시스템 아키텍처](#시스템-아키텍처)
+3. [기술 스택](#TECH-STACKS)
+4. [](#Submodule-Directories-&-documents)
+  - [협업 툴](#협업툴)
+  - [API 명세서](#API-명세서)
+  - [ERD](#ERD)
+5. [기능 소개](#기능-소개)
+6. [게시판 구현하기](#팀-소개)
+
+
 ## 프로젝트 소개
 9oorp 서비스는 구름톤 트레이닝 플레이어들이 간편하게 스터디와 프로젝트를 구할 수 있게 도와주는 서비스입니다.
 
